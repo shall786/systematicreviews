@@ -6,7 +6,7 @@ This python script imports all text files in the directory "Keywords"
 Extracts the key words section of the paper to a list
 Writes the full list to a new text file
 
-@author: em10636 (Jennifer Pannell)
+@author: Mritunjay Shall Peelam
 """
 import glob
 from itertools import chain
